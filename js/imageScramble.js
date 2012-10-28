@@ -175,7 +175,7 @@
   } //end prototype functions
   
   
- /* COLLAPSIBLE PLUGIN DEFINITION
+ /* imageScramble PLUGIN DEFINITION
   * ============================== */
 
   $.fn.imageScramble = function (option) {
